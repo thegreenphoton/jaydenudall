@@ -106,7 +106,7 @@ body {
 }
 .edColumns li {
     display: inline-block;
-    width: 375px;
+    width: 33%;
     color:rgb(72, 2, 2)
 }
 .buchanan {
